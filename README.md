@@ -21,15 +21,4 @@ The ever-evolving landscape of technology motivates me to be a perpetual learner
 If you're passionate about coding, game development, or simply want to connect with a like-minded individual, feel free to reach out. Collaboration sparks creativity, and I'm always excited about the prospect of working together on intriguing projects.
 
 ---
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rorceptt&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rorcept&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 [![](https://visitcount.itsvg.in/api?id=Rorceptt&icon=9&color=1)](https://visitcount.itsvg.in)
